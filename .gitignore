@@ -1,4 +1,5 @@
 node_modules
+vue.config.js
 
 # Created by https://www.toptal.com/developers/gitignore/api/vue,vuejs,node,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=vue,vuejs,node,visualstudiocode
